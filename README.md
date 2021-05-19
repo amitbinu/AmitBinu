@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitbinu)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on projection for one of CGI's clients.
+- 🔭 I’m currently working on projects for one of CGI's clients.
 - 🌱 I’m currently learning algotrading and webservices
 
 <!--
