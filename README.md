@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on projection for one of CGI's clients.
-- 🌱 I’m currently learning algotrading and algorithmic problems in leetcode
+- 🌱 I’m currently learning algotrading and webservices
 
 <!--
 **amitbinu/AmitBinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
