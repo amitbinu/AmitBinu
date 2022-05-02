@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitbinu)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working as a Consultant and Java Developer for CGI.
+- 🔭 I’m currently working as a Devops / Platform Engineer for Citi.
 - 🌱 I’m currently learning algotrading and webservices
 
 <!--
